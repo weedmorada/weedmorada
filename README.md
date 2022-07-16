@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**weedmorada/weedmorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2> Welcome to my profile! <img src="https://c.tenor.com/FHFBIMjKtQkAAAAC/weed-420.gif8" width="60"></h2>
+  
+  <img align='right' src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="200">
+  
+  [![github](https://img.shields.io/github/followers/weedmorada?label=follow&style=social)](https://github.com/weedmorada)</br></br>
+  
+  <em>
+  Learning Java (soon Python) and studying Server Administration..</br>
+  Working on a server plugin project and my own server hosting
+  </em></br></br>
+  
+  ### More about me
+  
+  <em>I'm Spain. <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png" width="25"></br>
+  Actually, 16 years old.</br>
+  I smoke weed everyday bro</em>
+  
