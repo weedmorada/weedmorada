@@ -1,4 +1,4 @@
- <h2> Welcome to my profile! <img src="https://c.tenor.com/FHFBIMjKtQkAAAAC/weed-420.gif8" width="60"></h2>
+ <h2> Welcome to my profile (new account)! <img src="https://c.tenor.com/FHFBIMjKtQkAAAAC/weed-420.gif8" width="60"></h2>
   
   <img align='right' src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="200">
   
