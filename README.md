@@ -1,4 +1,4 @@
- <h2> Welcome to my profile (new account)! <img src="https://c.tenor.com/FHFBIMjKtQkAAAAC/weed-420.gif8" width="60"></h2>
+<h2> Welcome to my profile (new account)! <img src="https://c.tenor.com/FHFBIMjKtQkAAAAC/weed-420.gif8" width="60"></h2>
   
   [![github](https://img.shields.io/github/followers/weedmorada?label=follow&style=social)](https://github.com/weedmorada)</br></br>
   
