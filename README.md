@@ -4,7 +4,7 @@
   
   <em>
   Learning Java (soon Python) and studying Server Administration..</br>
-  Working on a server plugin project and my own server hosting
+  Working on a Minecraft Hack Client for no rules Servers
   </em></br></br>
   
   ### More about me
