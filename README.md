@@ -4,7 +4,7 @@
   
   <em>
   Learning Java (soon Python) and studying Server Administration..</br>
-  Working on a Minecraft Hack Client for no rules Servers
+  Working on a Minecraft Hack Client for Anarchy Servers like 2b2t or 0b0t
   </em></br></br>
   
   ### More about me
